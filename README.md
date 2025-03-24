@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+Create a simple Todo App that stores the user todos in a CSV File stored in the device. And users can upload a JSON from their device, to add more todo's to the app.
 
 ## Getting Started
 
